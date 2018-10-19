@@ -3,7 +3,7 @@ class Puppy
 
   def initiliaze (name, breed, age)
     @name = name
-    @breed = breed
     @age = age
+    @breed = breed
   end
 end
